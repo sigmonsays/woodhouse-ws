@@ -1,0 +1,6 @@
+[submodule "woodhouse"]
+	path = woodhouse
+	url = https://github.com/sigmonsays/woodhouse
+[submodule "src/github.com/sigmonsays/woodhouse"]
+	path = src/github.com/sigmonsays/woodhouse
+	url = https://github.com/sigmonsays/woodhouse
